@@ -1,0 +1,1 @@
+# goEnvUnderCentOS6
